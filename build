@@ -1,0 +1,4 @@
+DEBUG cls
+RELEASE echo running RELEASE
+LOOP a.exe build LOOP 
+BUILD g++ main.cpp -o build.exe > BUILDOUTPUT.txt
