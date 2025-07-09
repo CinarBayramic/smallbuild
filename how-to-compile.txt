@@ -1,0 +1,1 @@
+you can either use the precompiled binary or write "g++ main.cpp -o build.exe" to compile the program
